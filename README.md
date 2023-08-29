@@ -3,7 +3,6 @@
 <br/>
 *Bu linkten uygulamayı görebilirsiniz.*https://youtu.be/fOUhRbnGBrQ
 <br/>
-
 <br/>
 **Kullanılan Teknolojiler & Yapılar**<br/>
 •*React Native*<br/>
